@@ -4,10 +4,18 @@
 
 ## Temas vistos durante el curso
 
+<<<<<<< HEAD
 - [Estructuras de datos & conceptos fundamentales](001-intro/primitivasMatricesClasesObjetos.md)
 - [Listas](002-listas/README.md)
   - Pilas
   - Colas
+=======
+- [Temario](temario/README.md)
+- Evaluaciones
+  - Evaluación continua: [Retos!](retos/README.md)
+  - Examen parcial
+  - Proyecto final 
+>>>>>>> d11ae3393e7633c4c10230901d4df28f7c423781
 
 ## Temas extras
 
@@ -19,6 +27,7 @@
 <details>
   <summary>Hoja de cálculo</summary>
 
+<<<<<<< HEAD
   ### Hoja de cálculo
 
 El reto consiste en desarrollar una hoja de cálculo en consola.
@@ -306,3 +315,30 @@ Articulos vendidos en el dia  : 2684
 - Reto 3 [SOLUCION](https://github.com/juanixcopal/23-24-eda1/tree/main/entregas/juanIxcopal/Reto-003)
 - Reto 4 [SOLUCIÓN](https://github.com/juanixcopal/23-24-eda1/tree/main/entregas/juanIxcopal/Reto-004)
 - Reto 5 [SOLUCIÓN](https://github.com/juanixcopal/23-24-eda1/tree/main/entregas/juanIxcopal/Reto-005)
+=======
+- [Hoja de asistencia de la asignatura](https://docs.google.com/spreadsheets/d/18jzNDeHckYg1bWRV4mEz9wdfirxPORikC-jv-pcYt2U/edit?usp=sharing)
+- [Libro de la asignatura](https://campus.uneatlantico.es/pluginfile.php/81026/mod_folder/content/0/Estructuras%20de%20datos%20y%20algoritmos%20I.pdf?forcedownload=1)
+- [Diferencia entre ciencias de la computación e ingenieria de software](https://interestingengineering.com/culture/computer-science-vs-software-engineering-how-are-they-different)
+
+### En mi máquina funciona...
+
+#### Mac OS
+```bash
+┏[manuel]
+┖[~/misRepos]
+   java --version
+java 20.0.2 2023-07-18
+Java(TM) SE Runtime Environment (build 20.0.2+9-78)
+Java HotSpot(TM) 64-Bit Server VM (build 20.0.2+9-78, mixed mode, sharing)
+```
+
+#### KUbuntu
+```bash
+┏[manuel]
+┖[~/misRepos]
+   java --version
+openjdk 17.0.8.1 2023-08-24
+OpenJDK Runtime Environment (build 17.0.8.1+1-Ubuntu-0ubuntu123.04)
+OpenJDK 64-Bit Server VM (build 17.0.8.1+1-Ubuntu-0ubuntu123.04, mixed mode, sharing)
+```
+>>>>>>> d11ae3393e7633c4c10230901d4df28f7c423781
